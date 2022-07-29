@@ -5579,6 +5579,12 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   background-image: -o-linear-gradient(50deg, #004242 0%, #3d57a8 100%);
   background-image: linear-gradient(40deg, #004242 0%, #3d57a8 100%);
 }
+
+.saas_featured_info .saas_featured_item.s_featured_six {
+  background-image: -o-linear-gradient(50deg, #2A1064 0%, #7824B8 100%);
+  background-image: linear-gradient(40deg, #2A1064 0%, #7824B8 100%);
+}
+
 .saas_featured_info .saas_featured_item h6 {
   font-size: 18px;
   color: #fff;
